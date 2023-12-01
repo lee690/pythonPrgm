@@ -1,0 +1,1 @@
+Essnetially, this projects automates the process of cleaning the insulinsequence to different files in Python.  I used ChatGPT to help me expedite the process
